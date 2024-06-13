@@ -5,12 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/HelloImmersal.unity
-    guid: 026b52fb0ac014cae8cdcf9e6e9763aa
   - enabled: 1
-    path: Assets/Scenes/DemoScene_00.unity
-    guid: 98d656af8387e43fc89ed6d006a56468
+    path: Assets/Scenes/Test Scene.unity
+    guid: 7fd45c99033f7cf46b66ee306e3c6d7e
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4b1d5a042e31248bd96476a68f09d908,
       type: 2}
